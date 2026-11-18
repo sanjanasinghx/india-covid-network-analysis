@@ -87,10 +87,6 @@ Case data is from the covid19india.org volunteer archive, April 2020 to June 202
     regenerate_compliance_figs.py
 ```
 
-## Report
-
-The PDF is at `report/india_covid_network_analysis.pdf` and also on [Academia.edu](https://telaviv.academia.edu/SanjanaSingh).
-
 Citation:
 
 > Singh, S. (2026). *India's District Adjacency Network and COVID-19 Propagation: A Centrality Analysis.*
